@@ -5,7 +5,7 @@ on the Eclipse compiler. The tool functions as a wrapper of the Eclipse compiler
 allows exporting the AST of source code files or projects in XML and JSON formats.
 The tool has a command line interface and can also be used as a library.
 The documentation is available at [http://thdiaman.github.io/ASTExtractor/](http://thdiaman.github.io/ASTExtractor/)
- 
+
 Executing in Command Line mode
 ------------------------------
 Execute as: <pre><code>java -jar ASTExtractor.jar -project="path/to/project" -properties="path/to/propertiesfile" -repr=XML|JSON</code></pre>
