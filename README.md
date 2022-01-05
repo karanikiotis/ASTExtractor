@@ -12,7 +12,7 @@ Execute as: <pre><code>java -jar ASTExtractor.jar -project="path/to/project" -pr
 for projects, or as: <pre><code>java -jar ASTExtractor.jar -file="path/to/file" -properties="path/to/propertiesfile" -repr=XML|JSON</code></pre>
 for java files, where <code>-properties</code> allows setting the location of the properties file (default is no properties so all syntax tree 
 nodes are returned) and <code>-repr</code> allows selecting the representation of the tree (default is XML).
-
+ 
 Using as a library
 ------------------
 Import the library in your code. Set a location for the properties file using <pre><code>ASTExtractorProperties.setProperties("ASTExtractor.properties");</code></pre>.
