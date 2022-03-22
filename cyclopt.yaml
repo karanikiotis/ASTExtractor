@@ -1,7 +1,7 @@
 global:
     violations:
         rules:
-          Variable Naming Conventions:
-            ignore:
-              - LEAF
-              - OMIT
+            Variable Naming Conventions:
+                ignore:
+                    - LEAF
+                    - OMIT
