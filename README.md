@@ -37,7 +37,7 @@ Then, you can use it as follows:
 			 );</code></pre>
 If JSON is required as the output representation then use these functions with a second string
 argument that can be either <code>"XML"</code> or <code>"JSON"</code>.
- 
+
 Using in Python
 ---------------
 ASTExtractor also has python bindings. Using the python wrapper is simple. At first, the library
